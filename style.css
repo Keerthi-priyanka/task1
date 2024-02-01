@@ -1,6 +1,6 @@
 
 .stand-bg {
-    background-image(to right,white,blue)
+    background-image:linear-gradient(to right,white,lightblue)
 }
 
 .price-stand {
