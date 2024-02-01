@@ -31,3 +31,9 @@
 .list-type {
     list-style-type: none;
 }
+.ad{
+ background-image:linear-gradient(to right,white,lightgreen)
+}
+.ba{
+background-image:linear-gradient(to right,white,lightpink)
+}
